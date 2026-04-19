@@ -8,10 +8,6 @@ function Policies() {
       <h2>Policies</h2>
       <h2>Policies</h2>
       <h2>Policies</h2>
-      <h2>Policies</h2>
-      <h2>Policies</h2>
-      <h2>Policies</h2>
-      <h2>Policies</h2>
     </Layout>
   );
 }
